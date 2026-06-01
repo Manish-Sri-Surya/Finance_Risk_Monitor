@@ -1,0 +1,66 @@
+date,description,amount,type
+2026-01-01,Salary Credit,85000,credit
+2026-01-02,UPI Swiggy Dinner,740,debit
+2026-01-03,Metro Card Recharge,500,debit
+2026-01-04,Amazon Electronics,4200,debit
+2026-01-05,Electricity Bill,1850,debit
+2026-01-06,House Rent,25000,debit
+2026-01-08,DMart Groceries,3100,debit
+2026-01-10,Netflix Subscription,649,debit
+2026-01-11,Pharmacy Apollo,980,debit
+2026-01-14,Zomato Lunch,430,debit
+2026-01-18,Uber Ride,360,debit
+2026-01-21,Mutual Fund SIP,8000,debit
+2026-01-26,Refund Amazon,1200,credit
+2026-02-01,Salary Credit,85000,credit
+2026-02-02,UPI Swiggy Dinner,860,debit
+2026-02-04,BigBasket Groceries,3450,debit
+2026-02-05,Electricity Bill,1920,debit
+2026-02-06,House Rent,25000,debit
+2026-02-09,Ola Airport Ride,1200,debit
+2026-02-10,Prime Subscription,1499,debit
+2026-02-11,Hospital Consultation,2300,debit
+2026-02-14,Myntra Shopping,5800,debit
+2026-02-18,Uber Ride,410,debit
+2026-02-20,Mutual Fund SIP,8000,debit
+2026-02-22,UPI Cafe Coffee,320,debit
+2026-03-01,Salary Credit,88000,credit
+2026-03-02,UPI Swiggy Dinner,920,debit
+2026-03-03,UPI Swiggy Dinner,920,debit
+2026-03-04,Zepto Groceries,2100,debit
+2026-03-05,Electricity Bill,1980,debit
+2026-03-06,House Rent,25000,debit
+2026-03-07,Unknown UPI Transfer,42000,debit
+2026-03-08,Unknown UPI Transfer,42000,debit
+2026-03-09,Uber Ride,450,debit
+2026-03-10,Spotify Subscription,119,debit
+2026-03-11,UPI Cafe Coffee,280,debit
+2026-03-11,UPI Cafe Coffee,260,debit
+2026-03-11,UPI Cafe Coffee,300,debit
+2026-03-11,UPI Cafe Coffee,250,debit
+2026-03-15,Udemy Course,1299,debit
+2026-03-20,Mutual Fund SIP,9000,debit
+2026-04-01,Salary Credit,88000,credit
+2026-04-02,Zomato Lunch,540,debit
+2026-04-04,DMart Groceries,3800,debit
+2026-04-05,Electricity Bill,2100,debit
+2026-04-06,House Rent,25000,debit
+2026-04-07,Flipkart Furniture,15500,debit
+2026-04-08,Doctor Clinic,1600,debit
+2026-04-10,Netflix Subscription,649,debit
+2026-04-13,Petrol Pump,3200,debit
+2026-04-18,BookMyShow Movie,1100,debit
+2026-04-20,Mutual Fund SIP,9000,debit
+2026-04-23,Mobile Recharge,799,debit
+2026-05-01,Salary Credit,90000,credit
+2026-05-02,UPI Swiggy Dinner,980,debit
+2026-05-04,Blinkit Groceries,2900,debit
+2026-05-05,Electricity Bill,2350,debit
+2026-05-06,House Rent,26000,debit
+2026-05-08,Unknown International Merchant,38500,debit
+2026-05-09,Ola Ride,620,debit
+2026-05-10,Prime Subscription,1499,debit
+2026-05-12,Hospital Pharmacy,1750,debit
+2026-05-15,Amazon Shopping,6700,debit
+2026-05-20,Mutual Fund SIP,10000,debit
+2026-05-23,Broadband Bill,1299,debit
